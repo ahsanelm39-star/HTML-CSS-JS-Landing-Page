@@ -33,7 +33,7 @@ A modern and responsive landing page for a tech company, designed to showcase se
 |-----------|--------|
 | Frontend | HTML - CSS - JS |
 | icons | font awesome |
-| Deployment | Netlify |
+| Deployment | Vercel |
 
 ---
 
